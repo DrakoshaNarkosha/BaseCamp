@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Adventure xmlns="http://www.garmin.com/xmlschemas/GarminAdventure/v1">
+
+  <GlobalId>57a4ff8e-f323-478e-abcf-7eeb31969d77</GlobalId>
+
+  <Name>Track 1</Name>
+
+  <Description>Track 1</Description>
+
+  <StartPosition>
+    <Lat>49.5512908</Lat>
+    <Lon>25.5724185</Lon>
+  </StartPosition>
+
+  <Activity>Walking</Activity>
+
+  <Distance>3225</Distance>
+
+  <Duration>601.0000000</Duration>
+
+  <Difficulty>1</Difficulty>
+
+  <MainTrackId>От 001 до Болюха ву</MainTrackId>
+
+  <DeviceName>tactix Delta Solar</DeviceName>
+
+</Adventure>
